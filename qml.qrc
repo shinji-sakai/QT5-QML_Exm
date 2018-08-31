@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/dropper.png</file>
+        <file>qml/ConfigItem.qml</file>
+        <file>qml/InputWidget.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
